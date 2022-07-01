@@ -20,3 +20,7 @@ Less code more functionality.
 Finger Counter only works with left hand, as there is condition is set for right hand thumb.
 
 # HAPPY CODING!
+ 
+ 
+ 
+ # PS: PPT is included for college project
