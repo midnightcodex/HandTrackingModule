@@ -1,0 +1,2 @@
+# HandTrackingModule
+The Hand Tracking Module is easy to be integrated within any project. It is based on Python 3.9 and 3.8 and supports python 3.9 and above. The module uses extensive libraries such as newly launched OpenCV 4.6 for best results and Mediapipe 0.8 to track hand movements and points more specifically.  The applications which include volume control, gesture control and mouse pointer control uses libraries Pycaw, autopy, etc. 
